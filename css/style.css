@@ -14,10 +14,7 @@
   margin: 0px;
   box-sizing: border-box;
 }
-html {
-  font-size: 10px;
-  /* 1 rem 10px */
-}
+
 body {
   font-family: var(--font-main);
   font-size: 1.6rem;

@@ -1,3 +1,6 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "script":{
+        "sass": "sass --style expanded scss/style.scss css/style.css"
+    },
 }
